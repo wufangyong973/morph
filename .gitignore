@@ -4,7 +4,6 @@ __pycache__/
 dist/
 .morph/
 .morph/css-cache/
-.vscode
 .morph/packages/
 /build/
 /build_dev/
@@ -34,3 +33,7 @@ examples/budget/
 
 # Generated per project on every build (route manifest types)
 morph-routes.d.ts
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
